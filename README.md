@@ -7,7 +7,7 @@ This web application is designed to predict customer churn using an Artificial N
 Live Demo:
 ---------
 
-A live demo of the application is available at <https://prajuktadey-customer-churn-prediction.streamlit.app/>.
+A live demo of the application is available at <>.
 
 Overview:
 --------
