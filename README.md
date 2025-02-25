@@ -7,7 +7,8 @@ This web application is designed to predict customer churn using an Artificial N
 Live Demo:
 ---------
 
-A live demo of the application is available at <>.
+A live demo of the application.
+https://github.com/user-attachments/assets/cf4370a1-b0c6-4e46-9760-8e2b7fcd9a45
 
 Overview:
 --------
