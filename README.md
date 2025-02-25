@@ -4,10 +4,10 @@ Customer Churn Detection App
 
 This web application is designed to predict customer churn using an Artificial Neural Network (ANN). The app is built using Streamlit, a Python library for creating interactive web applications.
 
-Live Demo:
+Video Demo:
 ---------
 
-A live demo of the application.
+A Video demo of the application.
 https://github.com/user-attachments/assets/cf4370a1-b0c6-4e46-9760-8e2b7fcd9a45
 
 Overview:
